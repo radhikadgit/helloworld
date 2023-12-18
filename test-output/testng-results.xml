@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-28T12:48:53 CDT" name="Default suite" finished-at="2023-08-28T12:48:54 CDT" duration-ms="61">
+    <groups>
+    </groups>
+    <test started-at="2023-08-28T12:48:53 CDT" name="Default test" finished-at="2023-08-28T12:48:54 CDT" duration-ms="61">
+      <class name="new_java.demo">
+        <test-method signature="day1()[pri:0, instance:new_java.demo@61d6015a]" started-at="2023-08-28T12:48:53 CDT" name="day1" finished-at="2023-08-28T12:48:54 CDT" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- day1 -->
+      </class> <!-- new_java.demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
